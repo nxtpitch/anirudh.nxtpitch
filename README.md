@@ -1,3 +1,2 @@
-# anirudh.nxtpitch
-
-Source code for Anirudh Veeraragavan's NXTPitch Domain
+# aniveera1.github.io
+Source code for my personal website
